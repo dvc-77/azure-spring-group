@@ -1,0 +1,5 @@
+com/slightlytechie/blog/repository/PostRepository.class
+com/slightlytechie/blog/api/Post.class
+com/slightlytechie/blog/service/PostService.class
+com/slightlytechie/blog/SlightlyTechieApplication.class
+com/slightlytechie/blog/controller/PostController.class

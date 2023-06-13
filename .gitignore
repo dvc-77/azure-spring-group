@@ -1,0 +1,22 @@
+# IDE
+../SlightlyTechie/slightlytechie/.idea/
+*.iml
+*.iws
+*.ipr
+
+# Files
+.DS_Store
+.vscode/
+
+# Logs
+logs/
+
+# Compiled files
+*.class
+
+# Application properties
+/application.properties
+
+# External dependencies
+/bin/
+/lib/
